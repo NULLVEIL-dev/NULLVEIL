@@ -15,4 +15,7 @@ All content is published under the pseudonym NULLVEIL.
 - Privacy tooling
 - Research notes
 
-More content will be added over time..
+More content will be added over time.
+---
+
+**Telegram:** [@NULLVEIL_OS](https://t.me/NULLVEIL_OS)
